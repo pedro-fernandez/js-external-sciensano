@@ -1,0 +1,9 @@
+{
+    "options": {
+      "form": {
+        "evalContext": {
+          "testCDNformio": "function(input) {return 'Test CDN FORMIO. Sciensano HealthData';}"
+        }
+      }
+    }
+  }
