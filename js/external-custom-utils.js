@@ -1,3 +1,3 @@
 function testCDN(){
-	return "Test CDN github. Sciensano HealthData";
+	return 'Test CDN github. Sciensano HealthData';
 }
